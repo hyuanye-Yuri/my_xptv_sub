@@ -1,8 +1,22 @@
 {
-  "id": "my-rules",
-  "name": "我的XPTV规则订阅",
-  "rules": [
-    {},
-    {}
+  "sites":[
+    {
+      "name":"蜜桃臀",
+      "tpye":3,
+      "api":"mysub001",
+      "ext":"https://raw.githubusercontent.com/hyuanye-Yuri/my_xptv_sub/refs/heads/main/mitaotun.xptv.js"
+    },
+    {
+      "name":"hsex",
+      "tpye":3,
+      "api":"mysub002",
+      "ext":"https://raw.githubusercontent.com/hyuanye-Yuri/my_xptv_sub/refs/heads/main/hsex.xptv.js"
+    },
+    {
+      "name":"hanju7",
+      "tpye":3,
+      "api":"mysub003",
+      "ext":"https://raw.githubusercontent.com/hyuanye-Yuri/my_xptv_sub/refs/heads/main/hanju7.xptv.js"
+    }
   ]
 }
